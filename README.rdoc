@@ -1,28 +1,25 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To identify the basic compenents of a Angular application and integrate them together in a manner that creates a canonical example for one to further develop or rexamine afterward.
 
 Things you may want to cover:
 
-* Ruby version
+* A Modular App
 
-* System dependencies
+* Adding A Modular Controller
 
-* Configuration
+* Adding functionality to the controller
 
-* Database creation
+* Adding a router
 
-* Database initialization
+* A Book Show
 
-* How to run the test suite
+* routeParams
 
-* Services (job queues, cache servers, search engines, etc.)
+* Making Requests
 
-* Deployment instructions
+* Configuring $httpProvider
 
-* ...
+* Setting up a service
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Using Resources
