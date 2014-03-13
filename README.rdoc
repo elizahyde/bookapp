@@ -1,6 +1,6 @@
 == README
 
-To identify the basic compenents of a Angular application and integrate them together in a manner that creates a canonical example for one to further develop or rexamine afterward.
+To identify the basic components of a Angular application and integrate them together in a manner that creates a canonical example for one to further develop or rexamine afterward.
 
 Things you may want to cover:
 
